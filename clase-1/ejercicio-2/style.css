@@ -1,0 +1,25 @@
+td{ 
+border: black 5px solid; 
+color:cornsilk; 
+font-size: medium; 
+font-family: serif; 
+
+
+} 
+tr{ 
+border: green 2px solid;
+
+} 
+table{ 
+background-color: lightcoral ;
+border-collapse: collapse ;
+
+
+}
+
+
+th{ 
+    font-size: x-large; 
+    border: black 5px solid; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

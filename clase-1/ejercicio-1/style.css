@@ -1,0 +1,44 @@
+body{ 
+background-color: beige; 
+
+} 
+h1{ 
+color: brown;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+
+}  
+h2{ 
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+} 
+ 
+.descripcion{ 
+    color: grey; 
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif; 
+
+}
+
+p{ 
+color: black;
+text-align: left; 
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+ 
+div{
+    margin-top: 20px;
+    text-align: center; 
+    font-size: x-large;
+}
+ 
+
+.imagenes{ 
+    display: flex; 
+    justify-content: space-between; 
+align-items: center;
+ }

@@ -1,0 +1,76 @@
+*{ 
+  box-sizing: border-box;
+
+}
+body{
+  margin:0;
+  padding:0;
+}
+ .ctn{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+ }
+ .ctn2{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ }
+ .container {
+margin: 10px;
+background-color: white;
+
+ }
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+ 
+.card{  
+  flex:50%;
+  margin: 12px;
+  border:1px solid gainsboro;  
+   box-shadow: 13px 11px 43px 17px rgba(0,0,0,0.46);
+ -webkit-box-shadow: 13px 11px 43px 17px rgba(0,0,0,0.46);
+ -moz-box-shadow: 13px 11px 43px 17px rgba(0,0,0,0.46); 
+ box-shadow: 3px 2px 17px 0px rgba(0,0,0,0.75);
+ -webkit-box-shadow: 3px 2px 17px 0px rgba(0,0,0,0.75);
+ -moz-box-shadow: 3px 2px 17px 0px rgba(0,0,0,0.75);
+
+  } 
+  img{
+    width: 300px;
+    height: 300px;
+
+    
+  }
+    h1{ 
+font-size: center;
+ padding: 20px;
+}  
+ 
+p{ 
+ color: #666;
+    font-size: 14px; 
+    text-align: center;
+}
+ .precio{
+    color: rgb(238, 16, 127);  
+   } 
+ 
+  .btn:hover { 
+    background-color: rgb(184, 8, 238) ;
+
+    } 
+ 
+    .btn{ 
+        font-family: Arial, Helvetica, sans-serif;
+     background-color: black; 
+      color: aliceblue; 
+  
+      width:  100%;
+
+}
